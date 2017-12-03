@@ -1,0 +1,1 @@
+const testCommit = (vsCodeCommit) => ();
